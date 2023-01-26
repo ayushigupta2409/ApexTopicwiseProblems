@@ -1,6 +1,7 @@
-problems in apex based on following topics:
-Lists
-Maps
-SOQL
-SObjects
-Sets
+Problems in apex based on following topics:
+◼Lists
+◼Maps
+◼SOQL
+◼SObjects
+◼Sets
+◼Triggers
